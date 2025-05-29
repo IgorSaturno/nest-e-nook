@@ -23,4 +23,4 @@ Este projeto é uma aplicação web construída com React, TypeScript e Vite, ut
    npm run dev
    ```
 
-Este README segue as práticas recomendadas para documentação de projetos em Markdown. Se desejar aprimorar ainda mais, considere adicionar seções como "Funcionalidades", "Exemplos de Uso", "Testes" ou "Deploy". Para aprender mais sobre Markdown, você pode consultar o [Guia Básico de Markdown](https://www.markdownguide.org/basic-syntax/) ou o [Guia Completo de Markdown](https://www.markdownguide.org/).
+
