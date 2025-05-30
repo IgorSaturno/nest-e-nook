@@ -67,7 +67,7 @@ export function Navbar() {
             <ShoppingCart />
           </Button>
           <Link to="/login">
-            <Button className="p-2 rounded-lg  hover:shadow-green-600 hover:shadow-2xl hover:bg-green-600  text-black hover:text-white transition">
+            <Button className="p-2 rounded-lg  hover:shadow-green-600 hover:shadow-2xl hover:bg-green-600  text-black hover:text-white transition hidden md:flex">
               <User size={16} /> Login
             </Button>
           </Link>
@@ -104,7 +104,7 @@ export function Navbar() {
                 className="flex items-center gap-2 py-2 px-3 rounded hover:bg-slate-50 transition"
                 onClick={() => setMobileMenuOpen(false)}
               >
-                <User size={16} /> Login
+                Login
               </Link>
             </li>
           </ul>
